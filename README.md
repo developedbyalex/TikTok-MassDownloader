@@ -4,8 +4,9 @@
 
 1. Download the .zip file from releases
 2. Input all TikTok links into `input.txt`
-3. Run `main.py`
-4. TikToks will output in the output folder
+3. Create a folder called output
+4. Run `main.py`
+5. TikToks will output in the output folder
 
 ## Support links
 All links TikTok video links are supported. Link to profiles will **NOT** work.
