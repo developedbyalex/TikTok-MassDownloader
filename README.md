@@ -4,7 +4,7 @@
 
 1. Download the .zip file from releases
 2. Input all TikTok links into `input.txt`
-3. Create a folder called output
+3. Create a folder called `output`
 4. Run `main.py`
 5. TikToks will output in the output folder
 
