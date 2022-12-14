@@ -1,5 +1,7 @@
 # TikTok-MassDownloader
 
+** BROKEN. API NOW HAS CAPTCHA AND I CBA TO PAY FOR IT </3 **
+
 ## How to install
 
 1. Download the .zip file from releases
@@ -10,6 +12,3 @@
 
 ## Support links
 All links TikTok video links are supported. Link to profiles will **NOT** work.
-
-### Support
-<a href="https://discord.gg/ZW4EFvkYnS "><img src="https://img.shields.io/discord/929452625966035006?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
